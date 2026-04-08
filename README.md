@@ -60,6 +60,9 @@ Results
 - Random Forest Accuracy: 1.00
 
 The Random Forest performed very well, but since the dataset is small, this might be overfitting.
+![Scatter Plot](scatter_plot.png)
+![Model Accuracy](model_accuracy_plot.png)
+![Model Class Distribution](classdistribution_plot.png)
 
 ---
 
